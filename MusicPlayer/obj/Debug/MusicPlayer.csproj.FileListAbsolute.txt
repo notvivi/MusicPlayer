@@ -1,0 +1,15 @@
+C:\Users\vtoma\OneDrive\Dokumenty\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\vtoma\OneDrive\Dokumenty\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\vtoma\OneDrive\Dokumenty\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\vtoma\OneDrive\Dokumenty\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\vtoma\OneDrive\Dokumenty\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vtoma\OneDrive\Dokumenty\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.AssemblyReference.cache
+C:\Users\vtoma\OneDrive\Dokumenty\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\vtoma\OneDrive\Dokumenty\MusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\vtoma\OneDrive\Dokumenty\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+C:\Users\vtoma\OneDrive\Dokumenty\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+C:\Users\vtoma\OneDrive\Dokumenty\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\vtoma\OneDrive\Dokumenty\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\vtoma\OneDrive\Dokumenty\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\vtoma\OneDrive\Dokumenty\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\vtoma\OneDrive\Dokumenty\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
